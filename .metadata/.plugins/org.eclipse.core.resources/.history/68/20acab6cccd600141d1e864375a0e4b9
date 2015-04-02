@@ -1,0 +1,15 @@
+package de.xbank.common;
+
+import java.math.BigDecimal;
+
+public interface Account 
+{
+	public int getId();
+
+    public BigDecimal getAmount();
+
+    public void increase(BigDecimal amount);
+
+    public void decrease(BigDecimal amount);
+
+}

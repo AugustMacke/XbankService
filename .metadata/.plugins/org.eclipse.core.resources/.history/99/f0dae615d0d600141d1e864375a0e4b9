@@ -1,0 +1,5 @@
+package de.xbank.customer;
+
+public class CustomerRegistry {
+
+}
