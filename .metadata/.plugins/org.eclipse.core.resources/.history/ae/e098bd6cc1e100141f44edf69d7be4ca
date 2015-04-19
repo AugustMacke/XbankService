@@ -1,0 +1,30 @@
+package de.fh.winfo.se;
+
+import javax.ejb.Local;
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+/**
+ * Session Bean implementation class HelloWorldServiceBean
+ */
+@Stateless
+@Local(HelloWorldService.class)
+@LocalBean
+public class HelloWorldServiceBean implements HelloWorldService {
+
+    /**
+     * Default constructor. 
+     */
+    public HelloWorldServiceBean() {
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+     * @see HelloWorldService#getHelloWorldString(String)
+     */
+    public String getHelloWorldString(String name) {
+        // TODO Auto-generated method stub
+			return null;
+    }
+
+}

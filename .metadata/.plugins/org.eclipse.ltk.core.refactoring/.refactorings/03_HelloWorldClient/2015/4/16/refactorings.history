@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;jndi.properties&apos; to &apos;jndi.properties&apos;&#x0A;- Original project: &apos;03_HelloWorldClient&apos;&#x0A;- Destination element: &apos;jndi.properties&apos;&#x0A;- Original element: &apos;jndi.properties&apos;" description="Copy file" element1="src/jndi.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1428924173361" target="/03_HelloWorldClient/src/jndi.properties" units="0" version="1.0"/>
+</session>

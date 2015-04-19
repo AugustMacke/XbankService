@@ -1,6 +1,0 @@
-package de.xbank.common;
-
-public interface Customer 
-{
-
-}

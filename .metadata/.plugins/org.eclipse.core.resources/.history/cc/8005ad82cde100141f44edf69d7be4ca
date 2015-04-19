@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="03_HelloWorldEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="03_HelloWorld.jar" deploy-path="/lib" handle="module:/resource/03_HelloWorld/03_HelloWorld">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="03_HelloWorldEJB.jar" deploy-path="/" handle="module:/resource/03_HelloWorldEJB/03_HelloWorldEJB">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

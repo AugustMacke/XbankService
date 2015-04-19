@@ -14,4 +14,5 @@
 <fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="de.xbank.common.Account"/>
 <fullyQualifiedTypeName name="de.xbank.banking.AccountImpl"/>
+<fullyQualifiedTypeName name="javax.naming.Context"/>
 </qualifiedTypeNameHistroy>

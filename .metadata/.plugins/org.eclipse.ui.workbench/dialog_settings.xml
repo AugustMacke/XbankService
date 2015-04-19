@@ -13,19 +13,23 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.ui.editors.wizards.UntitledTextFileWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.junit"/>
+			<item value="org.eclipse.jst.ws.ui.new"/>
 		</list>
 	</section>
 	<section name="ShowViewDialog">
 		<item value="374" key="DIALOG_WIDTH"/>
-		<item value="org.eclipse.ui.views.ProblemView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="org.eclipse.wst.server.ui.ServersView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
 		<item value="154" key="DIALOG_Y_ORIGIN"/>
-		<item value="443" key="DIALOG_HEIGHT"/>
 		<item value="368" key="DIALOG_X_ORIGIN"/>
+		<item value="415" key="DIALOG_HEIGHT"/>
 		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.ui"/>
+			<item value="org.eclipse.wst.server.ui"/>
 		</list>
 	</section>
 </section>

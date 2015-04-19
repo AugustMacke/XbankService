@@ -1,5 +1,0 @@
-package de.xbank.common;
-
-public interface Account {
-
-}
